@@ -44,6 +44,15 @@ http://localhost:8081
 - Automated Build Process
 - Webhook Integration
 
+## Screenshot
+<img width="1900" height="1020" alt="Screenshot 2026-07-10 080056 1" src="https://github.com/user-attachments/assets/eff4d674-7612-4333-a416-0a8b48474873" />
+<img width="1381" height="162" alt="image" src="https://github.com/user-attachments/assets/222ac7f4-3c33-43bd-a1da-370d6f76b4e9" />
+<img width="1907" height="1025" alt="Screenshot 2026-07-10 224303 J" src="https://github.com/user-attachments/assets/88beb259-0f31-43f3-bf7a-5e213ad02dc0" />
+
+
+
+
+
 ## Author
 **Tanisha Yadav**
 
