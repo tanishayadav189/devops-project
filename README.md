@@ -45,13 +45,9 @@ http://localhost:8081
 - Webhook Integration
 
 ## Screenshot
-<img width="1900" height="1020" alt="Screenshot 2026-07-10 080056 1" src="https://github.com/user-attachments/assets/eff4d674-7612-4333-a416-0a8b48474873" />
-<img width="1381" height="162" alt="image" src="https://github.com/user-attachments/assets/222ac7f4-3c33-43bd-a1da-370d6f76b4e9" />
-<img width="1907" height="1025" alt="Screenshot 2026-07-10 224303 J" src="https://github.com/user-attachments/assets/88beb259-0f31-43f3-bf7a-5e213ad02dc0" />
-
-
-
-
+<img width="1900" height="1020" alt="Screenshot 2026-07-10 080056 1" src="https://github.com/user-attachments/assets/b5f70884-3513-4ff2-be16-ab2933d86df2" />
+<img width="1381" height="162" alt="image" src="https://github.com/user-attachments/assets/6aa861ab-eb4c-4acf-a3cc-fd31eda9afca" />
+<img width="1907" height="1025" alt="Screenshot 2026-07-10 224303 J" src="https://github.com/user-attachments/assets/1480c4a2-a24c-4c94-92b2-fa4f2e62c388" />
 
 ## Author
 **Tanisha Yadav**
