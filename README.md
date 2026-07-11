@@ -1,9 +1,12 @@
-#  DevOps CI/CD Project
+#  End-to-End DevOps CI/CD Pipeline using Jenkins & Docker
 
-A beginner-friendly End-to-End DevOps project demonstrating Continuous Integration (CI) using **Git, GitHub, Jenkins, Docker, and Nginx**.
+## 📌 Project Overview
 
-The application is containerized with Docker, managed with Git/GitHub, and automatically built using a Jenkins Pipeline.
+This project demonstrates an End-to-End Continuous Integration (CI) workflow using Git, GitHub, Jenkins, Docker, and Nginx.
 
+The application source code is stored in GitHub. Jenkins automatically fetches the latest code, reads the Jenkinsfile, and builds the Docker image, demonstrating a real CI workflow.
+
+This project was built to gain hands-on experience with DevOps tools and CI/CD concepts.
 ---
 
 #  Project Architecture
